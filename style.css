@@ -26,25 +26,25 @@ h3 {
 
 @media only screen and (max-width: 999px) {
     h1 {
-        font: 600 2em 'Raleway', sans-serif;
+        font-size: 2em 
     }
     h2 {
         font-size: 1em;
     }
     h3 {
-        font: 900 0.8em 'Raleway', sans-serif;
+        font-size: 0.8em 
     }
 }
 
 
 @media only screen and (max-width: 477px) {
     h1 {
-        font: 600 1.6em 'Raleway', sans-serif;
+        font-size: 1.6em 
     }
     h2 {
         font-size: 1em;
     }
     h3 {
-        font: 900 0.8em 'Raleway', sans-serif;
+        font-size: 0.8em 
     }
 }
